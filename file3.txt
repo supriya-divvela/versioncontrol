@@ -1,1 +1,1 @@
-This is file3 from test branch
+This is file3 from test branch and now i edited
